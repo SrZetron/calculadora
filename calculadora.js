@@ -7,6 +7,6 @@ function calculadora() {
   document.getElementById("resultado").innerText = "O resultado é: " + resultado;
 
   document.getElementById("img").innerHTML = `
-        <img src="https://cdn.wallapop.com/images/10420/ho/d1/__/c10420p1068844628/i5237478218.jpg?pictureSize=W640" alt="Imagem da Calculadora">
+        <img src="https://cdn-icons-png.flaticon.com/512/43/43790.png" alt="Imagem do simbolo de soma!">
     `;
 }
